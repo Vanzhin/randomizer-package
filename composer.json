@@ -2,6 +2,7 @@
     "name": "nvanzhin/randomizer",
     "description": "Shuffles words in a sentence and characters in words",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Nvanzhin\\Randomizer\\": "src/"
